@@ -21,3 +21,4 @@ public class SchoolTask {
         System.out.println(schoolTask+" ");
     }
 }
+
